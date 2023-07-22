@@ -5,7 +5,7 @@
 GA.py - 遗传算法解决TSP问题 <br>
 GA_optimize_restrain.py - 遗传算法解决两变量离散带约束优化问题 <br>
 PSO_TSP.py - 粒子群算法解决TSP问题 <br>
-pso.py - 粒子群算法解决优化问题 
+pso.py - 粒子群算法解决优化问题 <br>
 NSGA_II - 遗传算法的改进，利用NSGA_II实现了出租车调度问题
 ## ML
 LDA - 线性判别分析对数据进行降维 <br>
